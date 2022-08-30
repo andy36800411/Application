@@ -1,0 +1,36 @@
+
+body { 
+	font: 80% Tahoma, sans-serif;
+	color: #555753; 
+    background: url("images/cloud.jpg") fixed;
+	background-size:cover;
+	background-position:center center center;
+	}
+
+p { 
+	text-align: justify;
+	font-family: sans-serif;
+    font-size:20px;
+	color:black;
+	}
+
+h3 { 
+	letter-spacing: 3px; 
+	font-family: 'Parisienne', cursive;
+    font-size:25px;
+	color:#be03fc;
+	}
+
+.page-wrapper { 
+	padding: 0 175px 0 110px;  
+	position: absolute;
+    background-image: url("images/bird2.png");
+	background-size:500px 326px;
+    background-repeat:no-repeat;
+	background-position:left;
+	}
+
+header {
+	font-size: 30px;
+}
+
